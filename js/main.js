@@ -26,4 +26,3 @@ function changeColor() {
 
 
 }
-// random_bg_color();
